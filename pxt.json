@@ -1,5 +1,5 @@
 {
-    "name": "Comp Sci AP performance task- swarm - Copy - Copy",
+    "name": "Comp sci performance task ACTUAL ONE ",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -18,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.47",
+        "target": "1.12.49",
         "targetId": "arcade"
     },
     "supportedTargets": [
